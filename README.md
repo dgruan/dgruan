@@ -70,7 +70,7 @@ My main interests are Back-end Development, Object-Oriented Programming, Data St
 
 📧 **Email:** douglasruan27@outlook.com
 
- <a href="https://www.linkedin.com/in/seu-linkedin">
+ <a href="https://www.linkedin.com/in/douglas-ruan-corr%C3%AAa-641303412/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
