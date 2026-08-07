@@ -12,7 +12,7 @@
 
 ---
 
-## 🧭 About Me
+## 👨‍💻 About Me
 
 I'm a Systems Analysis and Development student from Brazil with a strong interest in software development and technology.
 
@@ -60,8 +60,7 @@ My main interests are Back-end Development, Object-Oriented Programming, Data St
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dgruan&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgruan&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dgruan&theme=tokyonight"/>
 </p>
 
 ---
