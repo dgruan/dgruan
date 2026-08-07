@@ -39,6 +39,7 @@ My main interests are Back-end Development, Object-Oriented Programming, Data St
 ## 📚 Currently Learning
 
 - ☕ Java Programming
+- 🟨 JavaScript
 - 🏗️ Object-Oriented Programming (OOP)
 - 📂 Data Structures
 - 🗃️ Database Systems
